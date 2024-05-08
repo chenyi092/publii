@@ -3,10 +3,29 @@
     <title>publii</title>
     <link href="https://chenyi092.github.io/publii/feed.xml" rel="self" />
     <link href="https://chenyi092.github.io/publii" />
-    <updated>1970-01-01T08:00:00+08:00</updated>
+    <updated>2024-05-09T00:36:09+08:00</updated>
     <author>
         <name>yi</name>
     </author>
     <id>https://chenyi092.github.io/publii</id>
 
+    <entry>
+        <title>hello</title>
+        <author>
+            <name>yi</name>
+        </author>
+        <link href="https://chenyi092.github.io/publii/hello.html"/>
+        <id>https://chenyi092.github.io/publii/hello.html</id>
+
+        <updated>2024-05-09T00:36:09+08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
 </feed>
