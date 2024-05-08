@@ -3,7 +3,7 @@
     <title>publii</title>
     <link href="https://chenyi092.github.io/publii/feed.xml" rel="self" />
     <link href="https://chenyi092.github.io/publii" />
-    <updated>2024-05-09T00:36:09+08:00</updated>
+    <updated>2024-05-09T00:45:38+08:00</updated>
     <author>
         <name>yi</name>
     </author>
@@ -16,6 +16,7 @@
         </author>
         <link href="https://chenyi092.github.io/publii/hello.html"/>
         <id>https://chenyi092.github.io/publii/hello.html</id>
+            <category term="Hi"/>
 
         <updated>2024-05-09T00:36:09+08:00</updated>
             <summary></summary>
